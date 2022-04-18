@@ -1,0 +1,259 @@
+Country,Name,Value,Type
+Albania,Albania,39.33,Cost of Living Index
+Austria,Austria,82.85333333,Cost of Living Index
+WalloonRegion,Belgium,85.58,Cost of Living Index
+BosniaandHerzegovina,Bosnia And Herzegovina,41.175,Cost of Living Index
+Bulgaria,Bulgaria,41.6175,Cost of Living Index
+Croatia,Croatia,56.1575,Cost of Living Index
+Cyprus,Cyprus,63.24,Cost of Living Index
+CzechRepublic,Czech Republic,48.725,Cost of Living Index
+Denmark,Denmark,93.56333333,Cost of Living Index
+Estonia,Estonia,58,Cost of Living Index
+Finland,Finland,85.71666667,Cost of Living Index
+France,France,84.155,Cost of Living Index
+Germany,Germany,75.40333333,Cost of Living Index
+Greece,Greece,62.32,Cost of Living Index
+Hungary,Hungary,47.96,Cost of Living Index
+Iceland,Iceland,123.78,Cost of Living Index
+Ireland,Ireland,86.44,Cost of Living Index
+Italy,Italy,79.91818182,Cost of Living Index
+Latvia,Latvia,54.87,Cost of Living Index
+Lithuania,Lithuania,52.97,Cost of Living Index
+Luxembourg,Luxembourg,95.37,Cost of Living Index
+Macedonia,Macedonia,38.51,Cost of Living Index
+Malta,Malta,73.69,Cost of Living Index
+Moldova,Moldova,34.06,Cost of Living Index
+Montenegro,Montenegro,44.68,Cost of Living Index
+Netherlands,Netherlands,82.30571429,Cost of Living Index
+Norway,Norway,115.5925,Cost of Living Index
+Poland,Poland,45.48363636,Cost of Living Index
+Portugal,Portugal,55.108,Cost of Living Index
+Romania,Romania,39.32666667,Cost of Living Index
+Serbia,Serbia,40.07,Cost of Living Index
+Slovakia,Slovakia,55.34666667,Cost of Living Index
+Slovenia,Slovenia,65.47,Cost of Living Index
+Spain,Spain,62.58181818,Cost of Living Index
+Sweden,Sweden,82.822,Cost of Living Index
+Switzerland,Switzerland,130.0883333,Cost of Living Index
+Ukraine,Ukraine,26.772,Cost of Living Index
+England,England,77.21636364,Cost of Living Index
+NorthernIreland,Northern Ireland,68.77,Cost of Living Index
+Wales,Wales,71.52,Cost of Living Index
+Scotland,Scotland,78.89333333,Cost of Living Index
+FlemishRegion,Belgium,85.58,Cost of Living Index
+BrusselsCapitalRegion,Belgium,85.58,Cost of Living Index
+Albania,Albania,9.96,Rent Index
+Austria,Austria,29.80333333,Rent Index
+WalloonRegion,Belgium,30.055,Rent Index
+BosniaandHerzegovina,Bosnia And Herzegovina,8.95,Rent Index
+Bulgaria,Bulgaria,9.1525,Rent Index
+Croatia,Croatia,12.39,Rent Index
+Cyprus,Cyprus,17.6,Rent Index
+CzechRepublic,Czech Republic,17.015,Rent Index
+Denmark,Denmark,37.43,Rent Index
+Estonia,Estonia,16.05,Rent Index
+Finland,Finland,31.65333333,Rent Index
+France,France,29.19875,Rent Index
+Germany,Germany,29.855,Rent Index
+Greece,Greece,11.65,Rent Index
+Hungary,Hungary,14.21,Rent Index
+Iceland,Iceland,57.25,Rent Index
+Ireland,Ireland,41.0975,Rent Index
+Italy,Italy,27.17181818,Rent Index
+Latvia,Latvia,15.23,Rent Index
+Lithuania,Lithuania,13.96333333,Rent Index
+Luxembourg,Luxembourg,61.59,Rent Index
+Macedonia,Macedonia,9.26,Rent Index
+Malta,Malta,31.385,Rent Index
+Moldova,Moldova,9.35,Rent Index
+Montenegro,Montenegro,11.1,Rent Index
+Netherlands,Netherlands,38.39142857,Rent Index
+Norway,Norway,42.95,Rent Index
+Poland,Poland,16.29090909,Rent Index
+Portugal,Portugal,18.994,Rent Index
+Romania,Romania,10.09222222,Rent Index
+Serbia,Serbia,8.493333333,Rent Index
+Slovakia,Slovakia,19.94333333,Rent Index
+Slovenia,Slovenia,20.62,Rent Index
+Spain,Spain,23,Rent Index
+Sweden,Sweden,31.958,Rent Index
+Switzerland,Switzerland,56.05333333,Rent Index
+Ukraine,Ukraine,9.136,Rent Index
+England,England,34.975,Rent Index
+NorthernIreland,Northern Ireland,23.7,Rent Index
+Wales,Wales,28.32,Rent Index
+Scotland,Scotland,31.61666667,Rent Index
+FlemishRegion,Belgium,30.055,Rent Index
+BrusselsCapitalRegion,Belgium,30.055,Rent Index
+Albania,Albania,25.17,Cost of Living Plus Rent Index
+Austria,Austria,57.26666667,Cost of Living Plus Rent Index
+WalloonRegion,Belgium,58.7975,Cost of Living Plus Rent Index
+BosniaandHerzegovina,Bosnia And Herzegovina,25.635,Cost of Living Plus Rent Index
+Bulgaria,Bulgaria,25.9625,Cost of Living Plus Rent Index
+Croatia,Croatia,35.0525,Cost of Living Plus Rent Index
+Cyprus,Cyprus,41.23,Cost of Living Plus Rent Index
+CzechRepublic,Czech Republic,33.43,Cost of Living Plus Rent Index
+Denmark,Denmark,66.49,Cost of Living Plus Rent Index
+Estonia,Estonia,37.765,Cost of Living Plus Rent Index
+Finland,Finland,59.64333333,Cost of Living Plus Rent Index
+France,France,57.65125,Cost of Living Plus Rent Index
+Germany,Germany,53.43611111,Cost of Living Plus Rent Index
+Greece,Greece,37.88333333,Cost of Living Plus Rent Index
+Hungary,Hungary,31.68,Cost of Living Plus Rent Index
+Iceland,Iceland,91.7,Cost of Living Plus Rent Index
+Ireland,Ireland,64.5725,Cost of Living Plus Rent Index
+Italy,Italy,54.48090909,Cost of Living Plus Rent Index
+Latvia,Latvia,35.75,Cost of Living Plus Rent Index
+Lithuania,Lithuania,34.16,Cost of Living Plus Rent Index
+Luxembourg,Luxembourg,79.08,Cost of Living Plus Rent Index
+Macedonia,Macedonia,24.4,Cost of Living Plus Rent Index
+Malta,Malta,53.29,Cost of Living Plus Rent Index
+Moldova,Moldova,22.14,Cost of Living Plus Rent Index
+Montenegro,Montenegro,28.48,Cost of Living Plus Rent Index
+Netherlands,Netherlands,61.12857143,Cost of Living Plus Rent Index
+Norway,Norway,80.5575,Cost of Living Plus Rent Index
+Poland,Poland,31.40545455,Cost of Living Plus Rent Index
+Portugal,Portugal,37.692,Cost of Living Plus Rent Index
+Romania,Romania,25.22888889,Cost of Living Plus Rent Index
+Serbia,Serbia,24.84333333,Cost of Living Plus Rent Index
+Slovakia,Slovakia,38.27,Cost of Living Plus Rent Index
+Slovenia,Slovenia,43.84,Cost of Living Plus Rent Index
+Spain,Spain,43.49363636,Cost of Living Plus Rent Index
+Sweden,Sweden,58.294,Cost of Living Plus Rent Index
+Switzerland,Switzerland,94.38166667,Cost of Living Plus Rent Index
+Ukraine,Ukraine,18.268,Cost of Living Plus Rent Index
+England,England,56.84545455,Cost of Living Plus Rent Index
+NorthernIreland,Northern Ireland,47.04,Cost of Living Plus Rent Index
+Wales,Wales,50.69,Cost of Living Plus Rent Index
+Scotland,Scotland,56.09333333,Cost of Living Plus Rent Index
+FlemishRegion,Belgium,58.7975,Cost of Living Plus Rent Index
+BrusselsCapitalRegion,Belgium,58.7975,Cost of Living Plus Rent Index
+Albania,Albania,31.79,Groceries Index
+Austria,Austria,78.67,Groceries Index
+WalloonRegion,Belgium,75.92,Groceries Index
+BosniaandHerzegovina,Bosnia And Herzegovina,34.05,Groceries Index
+Bulgaria,Bulgaria,36.51,Groceries Index
+Croatia,Croatia,47.615,Groceries Index
+Cyprus,Cyprus,51.87666667,Groceries Index
+CzechRepublic,Czech Republic,43.51,Groceries Index
+Denmark,Denmark,74.27333333,Groceries Index
+Estonia,Estonia,43.86,Groceries Index
+Finland,Finland,72.5,Groceries Index
+France,France,78.12875,Groceries Index
+Germany,Germany,59.61722222,Groceries Index
+Greece,Greece,50.03333333,Groceries Index
+Hungary,Hungary,39.26,Groceries Index
+Iceland,Iceland,118.15,Groceries Index
+Ireland,Ireland,74.7475,Groceries Index
+Italy,Italy,69.90636364,Groceries Index
+Latvia,Latvia,42.56,Groceries Index
+Lithuania,Lithuania,42.39666667,Groceries Index
+Luxembourg,Luxembourg,82.71,Groceries Index
+Macedonia,Macedonia,30.7,Groceries Index
+Malta,Malta,61.705,Groceries Index
+Moldova,Moldova,27.64,Groceries Index
+Montenegro,Montenegro,35.64,Groceries Index
+Netherlands,Netherlands,67.42285714,Groceries Index
+Norway,Norway,105.95,Groceries Index
+Poland,Poland,36.33545455,Groceries Index
+Portugal,Portugal,45.78,Groceries Index
+Romania,Romania,32.80222222,Groceries Index
+Serbia,Serbia,31.06,Groceries Index
+Slovakia,Slovakia,49.39,Groceries Index
+Slovenia,Slovenia,54.76,Groceries Index
+Spain,Spain,53.17363636,Groceries Index
+Sweden,Sweden,76.174,Groceries Index
+Switzerland,Switzerland,132.235,Groceries Index
+Ukraine,Ukraine,20.894,Groceries Index
+England,England,63.34272727,Groceries Index
+NorthernIreland,Northern Ireland,61.07,Groceries Index
+Wales,Wales,65.68,Groceries Index
+Scotland,Scotland,66.12666667,Groceries Index
+FlemishRegion,Belgium,75.92,Groceries Index
+BrusselsCapitalRegion,Belgium,75.92,Groceries Index
+Albania,Albania,32.05,Restaurant Price Index
+Austria,Austria,75.55,Restaurant Price Index
+WalloonRegion,Belgium,94.665,Restaurant Price Index
+BosniaandHerzegovina,Bosnia And Herzegovina,30.235,Restaurant Price Index
+Bulgaria,Bulgaria,33.9925,Restaurant Price Index
+Croatia,Croatia,46.2175,Restaurant Price Index
+Cyprus,Cyprus,70.59666667,Restaurant Price Index
+CzechRepublic,Czech Republic,34.84,Restaurant Price Index
+Denmark,Denmark,108.3966667,Restaurant Price Index
+Estonia,Estonia,58.37,Restaurant Price Index
+Finland,Finland,94.05,Restaurant Price Index
+France,France,81.27625,Restaurant Price Index
+Germany,Germany,71.62111111,Restaurant Price Index
+Greece,Greece,60.03333333,Restaurant Price Index
+Hungary,Hungary,36.735,Restaurant Price Index
+Iceland,Iceland,133.19,Restaurant Price Index
+Ireland,Ireland,88.0475,Restaurant Price Index
+Italy,Italy,82.97818182,Restaurant Price Index
+Latvia,Latvia,51.15,Restaurant Price Index
+Lithuania,Lithuania,47.47,Restaurant Price Index
+Luxembourg,Luxembourg,109.61,Restaurant Price Index
+Macedonia,Macedonia,29.14,Restaurant Price Index
+Malta,Malta,79.1,Restaurant Price Index
+Moldova,Moldova,25.5,Restaurant Price Index
+Montenegro,Montenegro,37.75,Restaurant Price Index
+Netherlands,Netherlands,90.71714286,Restaurant Price Index
+Norway,Norway,130.5,Restaurant Price Index
+Poland,Poland,37.98454545,Restaurant Price Index
+Portugal,Portugal,43.568,Restaurant Price Index
+Romania,Romania,32.48333333,Restaurant Price Index
+Serbia,Serbia,32.69333333,Restaurant Price Index
+Slovakia,Slovakia,43.20666667,Restaurant Price Index
+Slovenia,Slovenia,57.7,Restaurant Price Index
+Spain,Spain,60.84545455,Restaurant Price Index
+Sweden,Sweden,88.012,Restaurant Price Index
+Switzerland,Switzerland,127.77,Restaurant Price Index
+Ukraine,Ukraine,21.022,Restaurant Price Index
+England,England,83.88136364,Restaurant Price Index
+NorthernIreland,Northern Ireland,79.19,Restaurant Price Index
+Wales,Wales,72.66,Restaurant Price Index
+Scotland,Scotland,89.36666667,Restaurant Price Index
+FlemishRegion,Belgium,94.665,Restaurant Price Index
+BrusselsCapitalRegion,Belgium,94.665,Restaurant Price Index
+Albania,Albania,38.05,Local Purchasing Power Index
+Austria,Austria,100.14,Local Purchasing Power Index
+WalloonRegion,Belgium,95.81,Local Purchasing Power Index
+BosniaandHerzegovina,Bosnia And Herzegovina,50.065,Local Purchasing Power Index
+Bulgaria,Bulgaria,53.65,Local Purchasing Power Index
+Croatia,Croatia,56.815,Local Purchasing Power Index
+Cyprus,Cyprus,88.96666667,Local Purchasing Power Index
+CzechRepublic,Czech Republic,77.2125,Local Purchasing Power Index
+Denmark,Denmark,109.71,Local Purchasing Power Index
+Estonia,Estonia,74.625,Local Purchasing Power Index
+Finland,Finland,116.7633333,Local Purchasing Power Index
+France,France,100.41625,Local Purchasing Power Index
+Germany,Germany,128.1894444,Local Purchasing Power Index
+Greece,Greece,55.40333333,Local Purchasing Power Index
+Hungary,Hungary,52.03,Local Purchasing Power Index
+Iceland,Iceland,88.95,Local Purchasing Power Index
+Ireland,Ireland,96.93,Local Purchasing Power Index
+Italy,Italy,76.92272727,Local Purchasing Power Index
+Latvia,Latvia,53.77,Local Purchasing Power Index
+Lithuania,Lithuania,57.82333333,Local Purchasing Power Index
+Luxembourg,Luxembourg,127.42,Local Purchasing Power Index
+Macedonia,Macedonia,41.99,Local Purchasing Power Index
+Malta,Malta,73.51,Local Purchasing Power Index
+Moldova,Moldova,31.39,Local Purchasing Power Index
+Montenegro,Montenegro,51.8,Local Purchasing Power Index
+Netherlands,Netherlands,106.6514286,Local Purchasing Power Index
+Norway,Norway,107.165,Local Purchasing Power Index
+Poland,Poland,70.97181818,Local Purchasing Power Index
+Portugal,Portugal,64.338,Local Purchasing Power Index
+Romania,Romania,57.45555556,Local Purchasing Power Index
+Serbia,Serbia,42.44666667,Local Purchasing Power Index
+Slovakia,Slovakia,59.57666667,Local Purchasing Power Index
+Slovenia,Slovenia,74.7,Local Purchasing Power Index
+Spain,Spain,87.64,Local Purchasing Power Index
+Sweden,Sweden,116.754,Local Purchasing Power Index
+Switzerland,Switzerland,128.865,Local Purchasing Power Index
+Ukraine,Ukraine,30.068,Local Purchasing Power Index
+England,England,106.1036364,Local Purchasing Power Index
+NorthernIreland,Northern Ireland,103.27,Local Purchasing Power Index
+Wales,Wales,109.78,Local Purchasing Power Index
+Scotland,Scotland,114.7666667,Local Purchasing Power Index
+FlemishRegion,Belgium,95.81,Local Purchasing Power Index
+BrusselsCapitalRegion,Belgium,95.81,Local Purchasing Power Index
